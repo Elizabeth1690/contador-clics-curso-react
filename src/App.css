@@ -23,9 +23,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 20px;
+  margin: 5px;
 }
 
 .freecodecamp-logo {
-  height: 50px;
+  height: 200px;
 }
