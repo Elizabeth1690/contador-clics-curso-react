@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import Boton from "./componentes/Boton";
 import Contador from "./componentes/Contador";
-import freeCodeCampLogo from "./imagenes/freecodecamp.png";
+import freeCodeCampLogo from "./imagenes/freecodecamp-logo.png";
 
 function App() {
   const [numClics, setNumClics] = useState(0);
